@@ -18,12 +18,11 @@ In this lab, we will observe the effects of a VPN (virtual private network), suc
 
 <h2>High-Level Steps</h2>
 
-- Use https://nordvpn.com/what-is-my-ip/deal-site/ to grab your current IP address
+- Use [whatismyipaddress.com](https://whatismyipaddress.com/) to grab your current IP address
 - Create a Virtual Machine in Microsoft Azure
 - Log into the virtual machine using Remote Desktop Connection
-- Use https://nordvpn.com/what-is-my-ip/deal-site/ to grab your VM IP address
+- Use [whatismyipaddress.com](https://whatismyipaddress.com/) to grab your VM IP address
 - Download Proton VPN, then connect to any VPN
-- Use https://nordvpn.com/what-is-my-ip/deal-site/ to grab your new Proton VPN IP address
 
 
 <h2>Actions and Observations</h2>
