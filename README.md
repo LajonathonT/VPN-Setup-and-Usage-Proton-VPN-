@@ -176,24 +176,6 @@ After clicking the "Quick Connect" button, I was connected to a Proton VPN serve
 
 NOTE: You might be connected to a different location by the time you are doing this lab.
 
-<p align="center">
-<img src="https://i.imgur.com/Mk7HLI4.png" height="80%" width="80%" alt="img"/>
-</p>
-
-Go back to https://nordvpn.com/what-is-my-ip/deal-site/ or refresh the web page if you still have it open.
-
-As shown in the image above, you can see our IP address changed and our location changed from South Africa to the Netherlands.
-
-In conclusion, when we connected to our VM via RDP (Remote Desktop), we were actually connecting to a VM located in South Africa. This means that our traffic appeared to be coming from South Africa, even though we were physically located elsewhere. In this sense, it was as if we were using a VPN.
-
-
-
-
-
-
-
-
-
 
 
 
